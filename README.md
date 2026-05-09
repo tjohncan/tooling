@@ -10,6 +10,8 @@
 
 - [**copy_secret_xx.bat**](copy_secret_xx.bat) :: A pattern on Windows for getting sensitive text into the clipboard without showing it on-screen.
 
+- [**save_copied_image.bat**](save_copied_image.bat) :: With an image (ex: screenshot) loaded on the clipboard, running this saves it as a .png file (optionally moving/renaming).
+
 - [**randompass.xlsm**](randompass.xlsm) :: A random password generator in Excel, particularly useful if you like to view a bunch and pick your favorites.
 
 ---
